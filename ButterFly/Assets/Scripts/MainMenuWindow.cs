@@ -8,6 +8,7 @@ using CodeMonkey.Utils;
 public class MainMenuWindow : MonoBehaviour
 {
     // Start is called before the first frame update
+    private int test;
     private void Awake()
     {
         transform.Find("PLAY").GetComponent<Button_UI>().ClickFunc = () => {
