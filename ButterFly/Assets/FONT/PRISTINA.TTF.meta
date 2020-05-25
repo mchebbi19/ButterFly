@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 06b0a26f7f6f6dc46ba9c30f20e811bc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pristina
+  fontNames:
+  - Pristina
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 997fc61494c988d4294babcb833146c0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

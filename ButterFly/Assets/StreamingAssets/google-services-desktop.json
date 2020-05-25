@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631333155360",
+    "firebase_url": "https://butterfly-1260f.firebaseio.com",
+    "project_id": "butterfly-1260f",
+    "storage_bucket": "butterfly-1260f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631333155360:android:a0860f9be6e4ee61134245",
+        "android_client_info": {
+          "package_name": "com.MegoldasStrategic.ButterFly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631333155360-tcqp9f4mjm8b9ncu09775a2mosg6ddsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtnVV75b0L1lcHG46_BtDJNIxAEicTk-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631333155360-tcqp9f4mjm8b9ncu09775a2mosg6ddsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

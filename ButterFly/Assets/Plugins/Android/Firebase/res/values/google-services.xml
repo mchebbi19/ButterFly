@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://butterfly-1260f.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">631333155360</string>
+  <string name="google_storage_bucket" translatable="false">butterfly-1260f.appspot.com</string>
+  <string name="project_id" translatable="false">butterfly-1260f</string>
+  <string name="google_api_key" translatable="false">AIzaSyBtnVV75b0L1lcHG46_BtDJNIxAEicTk-0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBtnVV75b0L1lcHG46_BtDJNIxAEicTk-0</string>
+  <string name="google_app_id" translatable="false">1:631333155360:android:a0860f9be6e4ee61134245</string>
+  <string name="default_web_client_id" translatable="false">631333155360-tcqp9f4mjm8b9ncu09775a2mosg6ddsg.apps.googleusercontent.com</string>
+</resources>
