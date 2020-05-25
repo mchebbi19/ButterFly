@@ -9,6 +9,7 @@ public class MainMenuWindow : MonoBehaviour
 {
     // Start is called before the first frame update
     private int test;
+    private int test2;
     private void Awake()
     {
         transform.Find("PLAY").GetComponent<Button_UI>().ClickFunc = () => {
